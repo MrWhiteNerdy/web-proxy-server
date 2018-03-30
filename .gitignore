@@ -1,4 +1,10 @@
+# Eclipse
 bin/
 .settings/
 .classpath
 .project
+
+# IntelliJ
+.idea/
+out/
+*.iml
